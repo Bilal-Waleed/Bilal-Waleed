@@ -8,6 +8,9 @@
 
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<br/>
+
+
 - 🌱 I’m currently learning **Typescript, JavaScript, Node.js, Tailwind CSS , React.js , AI , Next.js**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/bilal_waleed]
