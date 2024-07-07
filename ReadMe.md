@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning **Typescript, JavaScript, Node.js, Tailwind CSS , React.js , Next.js**
 
-- 👨‍💻 All of my projects are available at <a herf="https://linktr.ee/bilal_waleed"> LinkTree </a>
+- 👨‍💻 All of my projects are available at [https://linktr.ee/bilal_waleed]
 
 - 📫 How to reach me **bilalwaleed246@gmail.com**
 
-- 📄 Know about my experiences <a herf= "https://drive.google.com/file/d/1rV4uLdeCO8m3qSitjVrT3IwZtCqu2fWr/view?usp=drive_link"> Click here </a>
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rV4uLdeCO8m3qSitjVrT3IwZtCqu2fWr/view?usp=drive_link]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
