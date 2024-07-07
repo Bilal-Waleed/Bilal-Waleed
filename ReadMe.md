@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilal Waleed</h1>
 <h3 align="center">A passionate Web developer.</h3>
 
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Typescript, JavaScript, Node.js, Tailwind CSS , React.js , Next.js**
 
@@ -31,5 +32,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+[![](https://visitcount.itsvg.in/api?id=bilal-waleed&icon=4&color=4)](https://visitcount.itsvg.in)
 
 
