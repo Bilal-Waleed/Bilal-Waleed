@@ -6,6 +6,7 @@
 
 <h2><img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = "50px" height ="50px">About Me :</h2>
 
+<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Typescript, JavaScript, Node.js, Tailwind CSS , React.js , AI , Next.js**
 
@@ -15,11 +16,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rV4uLdeCO8m3qSitjVrT3IwZtCqu2fWr/view?usp=drive_link]
 
-<br/>
-
-<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<br/>
 <br/>
 
 <h3 align="left">Connect with me:</h3>
