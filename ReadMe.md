@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Bilal Waleed</h1>
 <h3 align="center">A passionate Web developer.</h3>
 
+<center><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;JavaScript+|+NodeJS+|+TypeScript+|+HTML5+CSS3;Learning+AI&center=true&width=500&height=50" width = "100%"></center>
+
 <h1 align= "left">About Me: </h1>
 
 - 🌱 I’m currently learning **Typescript, JavaScript, Node.js, Tailwind CSS , React.js , Next.js**
