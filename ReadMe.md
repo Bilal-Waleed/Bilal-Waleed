@@ -11,6 +11,9 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rV4uLdeCO8m3qSitjVrT3IwZtCqu2fWr/view?usp=drive_link]
 
+<br/>
+<br/>
+
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br/>
 
