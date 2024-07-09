@@ -13,11 +13,11 @@
 
 - 🌱 I’m currently learning **Typescript, JavaScript, Node.js, Tailwind CSS , React.js , AI , Next.js**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/bilal_waleed]
+- <p dir="auto">👨‍💻 All of my <strong>Projects</strong> are available at <a href="https://linktr.ee/bilal_waleed" rel="nofollow">Visit My LinkTree..</a></p>
 
 - 📫 How to reach me **bilalwaleed246@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rV4uLdeCO8m3qSitjVrT3IwZtCqu2fWr/view?usp=drive_link]
+- <p dir="auto"> 📄CV/Resume? <a href="https://drive.google.com/drive/u/0/folders/1PZLvQfwcVlcBBgWQxzw4rFEYoZnkNggM" rel="nofollow">Here it is..</a></p> 
 
 <br/>
 <br/>
