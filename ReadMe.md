@@ -11,7 +11,7 @@
 <br>
 
 
-- 🌱 I’m currently learning **Typescript, JavaScript, Node.js, Tailwind CSS , React.js , AI , Next.js**
+- 🌱 I’m currently learning **Typescript, JavaScript, Node.js, Tailwind CSS , React.js , AI , Next.js , Python**
 
 - <p dir="auto">👨‍💻 All of my <strong>Projects</strong> are available at <a href="https://linktr.ee/bilal_waleed" rel="nofollow">Visit My LinkTree..</a></p>
 
