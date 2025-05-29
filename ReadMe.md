@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **bilalwaleed246@gmail.com**
 
-- <p dir="auto"> 📄CV/Resume? <a href="https://drive.google.com/drive/folders/1o3441aoZw5o0rfNEPjIkjMPab4T3O6qE?usp=sharing" rel="nofollow">Here it is..</a></p> 
+- <p dir="auto"> 📄CV/Resume? <a href="https://drive.google.com/drive/folders/1q-NLqGSR8_RySJT7IUdURB6LR02NQGLV?usp=sharing" rel="nofollow">Here it is..</a></p> 
 
 <br/>
 <br/>
