@@ -1,23 +1,29 @@
 
+<h1 align="center">Hi, I'm Bilal Waleed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h1 align="center">Hi , I'm Bilal Waleed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Web+Developer;JavaScript+|+Node.js+|+React.js+|+Next.js;HTML5+|+Tailwind+CSS+|+MongoDB;Exploring+OpenAI+SDK+|+Agentic+AI+|+Docker;Python+|+Cloud+|+AI+Integrations&center=true&width=500&height=50">
+</p>
 
-<center><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;JavaScript+|+NodeJS+|+TypeScript+|+HTML5;CSS3+|+TailwindCSS+|+BootStrap;Learning+Cloud+Generative+AI;Learning+Python+|+Google+Colab+|+Docker+&center=true&width=500&height=50" width = "100%"></center>
-
-<h2><img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = "50px" height ="50px">About Me :</h2>
+<h2><img src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width="50px" height="50px"> About Me:</h2>
 
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <br>
 
+- 👨‍💻 I’m a passionate **MERN Stack Developer** with experience in **React.js**, **Next.js**, **TypeScript**, and modern UI tools like **Tailwind CSS**.
 
-- 🌱 I’m currently learning **Typescript, JavaScript, Node.js, Express.js , React.js , AI , Next.js , Python**
+- 🌱 Currently diving into:
+  - **OpenAI SDK** & **Agentic AI Workflows**
+  - **Docker & DevOps Basics**
+  - **Python for Automation & AI**
+  - **Cloud Concepts & Generative AI**
 
-- <p dir="auto">👨‍💻 All of my <strong>Projects</strong> are available at <a href="https://linktr.ee/bilal._waleed" rel="nofollow">Visit My LinkTree..</a></p>
+- 🔗 All of my <strong>Projects</strong> are available at 👉 <a href="https://linktr.ee/bilal._waleed" target="_blank">Visit My LinkTree</a>
 
-- 📫 How to reach me **bilalwaleed246@gmail.com**
+- 📫 Reach me at: **bilalwaleed246@gmail.com**
 
-- <p dir="auto"> 📄CV/Resume? <a href="https://drive.google.com/drive/folders/1q-NLqGSR8_RySJT7IUdURB6LR02NQGLV?usp=sharing" rel="nofollow">Here it is..</a></p> 
+- 📄 Want to see my CV/Resume? 👉 <a href="https://drive.google.com/drive/folders/1q-NLqGSR8_RySJT7IUdURB6LR02NQGLV?usp=sharing" target="_blank">Click here</a>
 
 <br/>
 <br/>
