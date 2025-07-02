@@ -11,7 +11,7 @@
 
 <br>
 
-- 👨‍💻 I’m a passionate **MERN Stack Developer** with experience in **React.js**, **Next.js**, **TypeScript**, and modern UI tools like **Tailwind CSS**.
+- 👨‍💻 I’m a passionate **MERN Stack Developer** with experience in **React.js**, **Next.js**, **Node.js**, and modern UI tools like **Tailwind CSS**.
 
 - 🌱 Currently diving into:
   - **OpenAI SDK** & **Agentic AI Workflows**
