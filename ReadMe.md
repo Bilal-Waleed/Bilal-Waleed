@@ -11,7 +11,7 @@
 
 <br>
 
-- 👨‍💻 I’m a passionate **MERN Stack Developer** with experience in **React.js**, **Next.js**, **Node.js**, and modern UI tools like **Tailwind CSS**.
+- 👨‍💻 I’m a passionate **MERN Stack Developer** with experience in **React.js**, **Next.js**, **Node.js**, and modern UI tools like **Tailwind CSS** and **Shadcn**.
 
 - 🌱 Currently diving into:
   - **OpenAI SDK** & **Agentic AI Workflows**
@@ -21,7 +21,7 @@
 
 - 🔗 All of my <strong>Projects</strong> are available at 👉 <a href="https://linktr.ee/bilal._waleed" target="_blank">Visit My LinkTree</a>
 
-- 📫 Reach me at: **bilalwaleed246@gmail.com**
+- 📫 Reach me at: **bilalwaleed01@gmail.com**
 
 - 📄 Want to see my CV/Resume? 👉 <a href="https://drive.google.com/drive/folders/1q-NLqGSR8_RySJT7IUdURB6LR02NQGLV?usp=sharing" target="_blank">Click here</a>
 
