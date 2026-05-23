@@ -23,7 +23,7 @@
 
 - 📫 Reach me at: **bilalwaleed01@gmail.com**
 
-- 📄 Want to see my CV/Resume? 👉 <a href="https://drive.google.com/file/d/1ODD3J2LpSsi0wQEeBz00Vu_sfMBI3fWK/view?usp=sharing" target="_blank">Click here</a>
+- 📄 Want to see my CV/Resume? 👉 <a href="https://drive.google.com/file/d/1Z9sAS7H4bcQVoYvUugcw09zj_GgMaRfi/view?usp=sharing" target="_blank">Click here</a>
 
 <br/>
 <br/>
